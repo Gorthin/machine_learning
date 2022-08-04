@@ -1,0 +1,38 @@
+https://pandas.pydata.org/docs/reference/index.html
+https://pandas.pydata.org/docs/user_guide/10min.html#min
+https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
+https://pandas.pydata.org/docs/getting_started/tutorials.html#communitytutorials
+
+>>> pandas.DataFrame.apply
+
+DataFrame.apply(func, axis=0, raw=False, result_type=None, args=(), **kwargs)
+
+Linki:
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html
+https://analityk.edu.pl/python-pandas-tutorial-funkcja-apply/
+
+
+>>> pandas.DataFrame.groupby
+
+DataFrame.groupby(by=None, axis=0, level=None, as_index=True, sort=True, group_keys=True, squeeze=NoDefault.no_default, observed=False, dropna=True)
+
+Linki:
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
+https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html#applying-multiple-functions-at-once
+https://doraprojects.net/questions/51836358/how-to-get-number-of-row-of-every-group-in-pandas-after-groupby
+https://www.tutorialspoint.com/python_pandas/python_pandas_groupby.htm#
+https://towardsdatascience.com/all-pandas-groupby-you-should-know-for-grouping-data-and-performing-operations-2a8ec1327b5
+
+
+>>> pandas.DataFrame
+
+class pandas.DataFrame(data=None, index=None, columns=None, dtype=None, copy=None)
+
+Linki:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
+https://ggoralski.gitlab.io/python-wprowadzenie/czesc_ii/2_06-pandas_2/
+https://bulldogjob.pl/readme/8-sposobow-na-przeksztalcenie-dataframe-w-pandas-przyklady
+https://analityk.edu.pl/python-pandas-tutorial-prosty-dataframe/
+https://analityk.edu.pl/python-pandas-tutorial-szybki-przeglad-zawartosci-dataframe/
+https://doraprojects.net/questions/48881709/how-to-filter-numeric-values-in-pandas-not-in-boolean-values-but-in-a-new-colum
+
