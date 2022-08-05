@@ -36,3 +36,29 @@ https://analityk.edu.pl/python-pandas-tutorial-prosty-dataframe/
 https://analityk.edu.pl/python-pandas-tutorial-szybki-przeglad-zawartosci-dataframe/
 https://doraprojects.net/questions/48881709/how-to-filter-numeric-values-in-pandas-not-in-boolean-values-but-in-a-new-colum
 
+>>> pandas.DataFrame.isin
+
+DataFrame.isin(values)
+
+Linki:
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.isin.html
+https://signalfix.net/pl/pandy-filtruja-wiersze-za-pomoca-in-i-not-in-jak-sql
+https://doraprojects.net/questions/48881709/how-to-filter-numeric-values-in-pandas-not-in-boolean-values-but-in-a-new-colum
+
+
+>>> pandas.DataFrame.iloc
+
+property DataFrame.iloc
+
+Linki:
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html
+https://doraprojects.net/questions/31593201/pandas-iloc-vs-ix-vs-loc-explanation-how-are-they-different
+
+
+>>> pandas.DataFrame.loc
+
+property DataFrame.loc
+
+Linki:
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html
+https://doraprojects.net/questions/31593201/pandas-iloc-vs-ix-vs-loc-explanation-how-are-they-different
