@@ -1,42 +1,38 @@
 # pandas_course
 This is an introductory course to pandas python library.
 
-## PL Version
-Repozytorium jest częścią kursu [Wprowadzenie do data science w języku Python - Pandas](https://www.udemy.com/course/wprowadzenie-data-science/?couponCode=GITHUB) dostępnym na platformie [Udemy.com](https://www.udemy.com/wprowadzenie-data-science/)
+EN Version
+The repository is part of the course [Introduction to Data Science in Python - Pandas](https://www.udemy.com/course/introduction-data-science/?couponCode=GITHUB)
 
-Planujesz swoją karierę w takich obszarach jak:
+Are you planning your career in areas such as:
 
-* analiza danych
-* analiza biznesowa
+* data analysis
+* business analysis
 * data science
-* big data
-* sztuczna inteligencja (uczenie maszynowe, uczenie głębokie)
-* ekonomia
-* statystyka
-* analityka internetowa
+* big date
+* artificial intelligence (machine learning, deep learning)
+* economy
+* statistics
+* web analytics
 * marketing
-* neuroinformatyka
-i wiele wiele innych?Jeżeli odpowiedź na którekolwiek z tych pytań brzmi 'tak', to ten kurs jest idealnie przeznaczony dla Ciebie. Biblioteka Pandas języka Python to doskonałe narzędzie do pracy z danymi. Kurs zawiera wiele praktycznych zastosowań jakie oferuje Pandas.
+* neuroinformatics and many more? 
 
-Jeżeli możliwości programu MS Excel są niewystarczające na Twoje potrzeby to odpowiedzią jest właśnie biblioteka Pandas.
+If the answer to any of these questions is 'yes', then this course is perfect for you. Python's Pandas library is a great tool for working with data. The course contains many practical applications offered by Pandas.
+If the capabilities of MS Excel are insufficient for your needs, the Pandas library is the answer.
 
-### Czym jest biblioteka Pandas?
+What is the Pandas library?
+Pandas is an open source library, which means it's completely free to use! What's more, we can even look into the source code and improve the solutions used! It provides powerful and easy-to-use data analysis tools for the Python programming language.
 
-Pandas to biblioteka typu open source, co oznacza, że jej używanie jest w pełni darmowe! Co więcej możemy nawet zaglądać do kodu źródłowego i udoskonalać stosowane rozwiązania! Zapewnia wydajne i łatwe w użyciu narzędzia do analizy danych dla języka programowania Python.
+Growth in popularity of Python
+Python is great for processing, preparing, analyzing, and modeling data. It is easy to learn and should not cause problems for a person who is just starting to learn programming. Over the past years and the growing popularity of artificial intelligence, Python has become a star in this sector. A lot of powerful libraries for machine learning or deep learning have been created. An example is the Tensorflow library created by Google.
 
-### Wzrost popularności języka Python
+Versatility of Applications
+We can use Python on many levels. Whether at home, in the office or by running scripts in the cloud. Combined with a multitude of applications and a great set of tools such as Spyder, Jupyter Notebook, Zeppelin, IPython and other libraries, the Python data analysis environment stands out for its efficiency, productivity and great flexibility.
 
-Język Python świetnie nadaje się do przetwarzania, przygotowania, analizy i modelowania danych. Jest prosty do nauki i nie powinien sprawiać problemów osobie, która dopiero zaczyna uczyć się programowania. Na przestrzeni ostatnich lat i rosnącej popularności sztucznej inteligencji Python wyrósł na gwiazdę w tym sektorze. Powstało sporo potężnych bibliotek do machine learningu, czy deep learningu. Przykładem może być stworzona przez Google biblioteka Tensorflow.
-
-### Wszechstronność Zastosowań
-
-Języka Python możemy używać na bardzo wielu poziomach. Czy to u siebie w domu, w biurze, czy uruchamiając skrypty w chmurze. W połączeniu z mnogością zastosowań i doskonałym zestawem narzędzi takich jak Spyder, Jupyter Notebook, Zeppelin, IPython i innymi bibliotekami środowisko do analizy danych w Pythonie wyróżnia się wydajnością, produktywnością i doskonałą elastycznością.
-
-### Co między innymi zawiera Pandas:
-
-* szybki i wydajny obiekt DataFrame, który jest analogią do arkusza kalkulacyjnego
-* narzędzia do odczytu i zapisu danych pomiędzy różnymi formatami: CSV, TXT, XLSX, baz danych SQL, HDF5, JSON, HTML
-* narzędzie do agregacji danych i tabele przestawne
-* wydajne łączenie danych
-* hierarchiczne indeksowanie 
-* szeregi czasowe
+What, among other things, Pandas contains:
+* a fast and efficient DataFrame object, which is analogous to a spreadsheet
+tools for reading and writing data between different formats: CSV, TXT, XLSX, SQL databases, HDF5, JSON, HTML
+* data aggregation tool and pivot tables
+* efficient data linking
+* hierarchical indexing
+* time series
